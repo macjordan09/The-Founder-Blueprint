@@ -2,6 +2,8 @@
 
 A practical, single-source workspace for founders and early-stage teams to turn an idea into a repeatable, investable company. This repo collects the playbooks, research, templates, and artifacts you need to define the problem, design the product, test go-to-market, and run the business.
 
+Status: Early-stage — editorial & research scaffolding in place. Current branch: Claude-Worlspace.
+
 ## What is this project?
 The Founder Blueprint is a structured repository for building startups methodically — from problem discovery through product, growth, operations, and finance. It organizes knowledge, experiments, and decisions so founders can move faster and reduce wasted effort.
 
@@ -16,18 +18,27 @@ Founders lose momentum and signal when information, experiments, and decisions a
 - Early employees (PM, marketing, ops, data) who need context and templates.
 - Advisors, investors, and incubators who want a clear view into decision-making and progress.
 
-## What problem are we solving?
-We are solving the problem of fragmented, ad-hoc startup documentation and unclear priorities. Instead of scattered notes and unstructured Google Drive folders, this repo provides a coherent structure for:
-- Capturing validated customer problems and research.
-- Turning strategy into prioritized product work and experiments.
-- Tracking metrics, growth experiments, and finance in one place.
-
-## What will this become?
-A living, practical handbook and workspace containing:
-- Reusable templates (PRDs, interviews, measurement plans).
-- A documented experiment backlog and growth playbook.
-- Roadmaps and milestone plans tied to metrics and outcomes.
-- An AI prompt/model inventory and reproducible research artifacts.
+## Immediate next steps (where to start)
+1. Read the central problem and audience definition:
+   - 02_Problem/Central_Problem.md
+   - 02_Problem/Customer_Research.md
+2. Review the editorial foundations:
+   - 06_Research/Editorial_Standards.md
+   - 06_Research/Research_Methodology.md
+   - 06_Research/Fact_Checking.md
+3. Review product & launch artifacts:
+   - 05_Product/Africa_Intelligence_Brief.md
+   - 05_Product/Featured_Brief_Template.md
+4. Explore the data foundation:
+   - 07_Data/Data_Model.md
+   - 07_Data/Taxonomy.md
+   - 07_Data/Africa_Database.md
+5. Read the AI roadmap and automation plans:
+   - 08_AI/AI_Strategy.md
+   - 08_AI/Prompt_Library.md
+   - 08_AI/Automation.md
+6. Read the 90-day plan and weekly sprints:
+   - 12_Roadmap/90-Day.md
 
 ## How this repo is organized
 Top-level folders (each contains templates, notes, and README placeholders):
@@ -49,7 +60,7 @@ Resources/       Templates, links, and cross-team references
 Ideas/           Idea backlog and early concept notes
 ```
 
-How it fits together:
+## How it fits together
 - Research in 06_Research and customer notes in 02_Problem feed strategy (03_Strategy) and product decisions (05_Product).
 - Product work is planned in 12_Roadmap and executed through feature specs in 05_Product while measurement and data live in 07_Data.
 - Growth experiments live in 09_Growth and are tied back to KPIs in 07_Data.
@@ -65,7 +76,13 @@ How it fits together:
 - Add files or fill templates where you have direct knowledge.
 - Name documents clearly with date, owner, and status (draft / in-progress / validated).
 - Link experiments and decisions to the related roadmap item or KPI.
+- For substantial changes, open a PR against the Claude-Worlspace branch and request review.
+
+## Contact & governance
+- Owner / Editor: macjordan09 (see CONTRIBUTORS or 01_Company for contact details).
+- Data steward: TBD (assign in 07_Data/README.md).
+- Editorial lead: TBD (assign in 06_Research/README.md).
 
 ---
 
-This README is intended to be the single onboarding document for anyone joining the project — refer to the per-folder READMEs for templates, examples, and next steps.
+This README is the single onboarding document for anyone joining the project — refer to the per-folder READMEs for templates, examples, and next steps.
