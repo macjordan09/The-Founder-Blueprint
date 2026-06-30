@@ -2,7 +2,7 @@
 
 A practical, single-source workspace for founders and early-stage teams to turn an idea into a repeatable, investable company. This repo collects the playbooks, research, templates, and artifacts you need to define the problem, design the product, test go-to-market, and run the business.
 
-Status: Early-stage — editorial & research scaffolding in place. Current branch: Claude-Worlspace.
+Status: Early-stage — editorial & research scaffolding in place. Current branch: Claude-Workspace.
 
 ## What is this project?
 The Founder Blueprint is a structured repository for building startups methodically — from problem discovery through product, growth, operations, and finance. It organizes knowledge, experiments, and decisions so founders can move faster and reduce wasted effort.
@@ -76,7 +76,7 @@ Ideas/           Idea backlog and early concept notes
 - Add files or fill templates where you have direct knowledge.
 - Name documents clearly with date, owner, and status (draft / in-progress / validated).
 - Link experiments and decisions to the related roadmap item or KPI.
-- For substantial changes, open a PR against the Claude-Worlspace branch and request review.
+- For substantial changes, open a PR against the Claude-Workspace branch and request review.
 
 ## Contact & governance
 - Owner / Editor: macjordan09 (see CONTRIBUTORS or 01_Company for contact details).
